@@ -1,10 +1,10 @@
 # E-Shopping-Cart
 
-A simple PHP-based e-commerce website that allows customers to browse and purchase electronic goods online.
+E-Shopping-Cart is a complete e-commerce system available as both a web application and an Android app. It allows users to browse electronic products, manage their cart, place orders, and track purchases seamlessly across platforms.
 
 ## 🚀 Project Overview
 
-E-Shopping-Cart is a web application built with PHP, HTML, CSS, JavaScript, Bootstrap and MySQL (via phpMyAdmin). Through this application, users can:
+A simple yet functional e-commerce platform that enables customers to explore electronic goods, add items to their cart or wishlist, and complete purchases through both web and mobile interfaces.
 
 - View product listings (electronics)
 - Browse product details
