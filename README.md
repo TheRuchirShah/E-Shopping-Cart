@@ -66,7 +66,7 @@ To run this project locally:
 1. Clone the repository  
    ```bash
    git clone https://github.com/TheRuchirShah/E-Shopping-Cart.git
-2.  Copy the project folder to your local web server’s root directory (e.g. `htdocs/` in XAMPP).
+2.  Copy the project folder to your local web server’s root directory (e.g. `htdocs/` in 'XAMPP').
     
 3.  Create a MySQL database (e.g. via phpMyAdmin).
     
