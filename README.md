@@ -26,6 +26,7 @@ It’s a minimal yet functional e-commerce system that demonstrates basic featur
 
 ## 📁 Project Structure
 
+```
 / (root)  
 │  
 ├── admin/ # Admin-side code (if applicable)  
@@ -55,7 +56,7 @@ It’s a minimal yet functional e-commerce system that demonstrates basic featur
 ├── payment-method.php  
 ├── pending-orders.php  
 └── README.md # This file
-
+```
 
 *(This structure is based on the current repository content.)*
 
