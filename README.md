@@ -27,8 +27,7 @@ It’s a minimal yet functional e-commerce system that demonstrates basic featur
 ## 📁 Project Structure
 
 ```
-/ (root)  
-│  
+./ (root) 
 ├── admin/ # Admin-side code (if applicable)  
 ├── assets/ # Static assets: CSS, JS, fonts, images  
 │ ├── css/ # Stylesheets  
