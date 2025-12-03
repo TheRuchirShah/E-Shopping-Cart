@@ -2,6 +2,7 @@
 
 E-Shopping-Cart is a complete e-commerce system available as both a web application and an Android app. It allows users to browse electronic products, manage their cart, place orders, and track purchases seamlessly across platforms.
 
+
 ## 🚀 Project Overview
 
 A simple yet functional e-commerce platform that enables customers to explore electronic goods, add items to their cart or wishlist, and complete purchases through both web and mobile interfaces.
